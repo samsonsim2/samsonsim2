@@ -1,4 +1,4 @@
-## Hey 👋, I'm Samson (https://github.com/iampavangandhi/)
+## Hey 👋, I'm Samson  
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-samson.vercel.app/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/samson.img/)
