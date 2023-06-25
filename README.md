@@ -32,12 +32,6 @@ I'm an aspiring full-stack developer with working experience in the creative ind
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
-Full Stack RealTime Document Editor Using PostgreSQL, Express, React, Sequelize: Full Stack Application Github Repo | Deployed Link
-Full Stack Application built using Express, Mongodb, React, Tailwind, React Hook Form : Full Stack Application Github Repo (frontend) | Full Stack Application Github Repo (backend) | Deployed Link
-Full Stack Application built using Firebase, Chakra UI, React Hook Form, Redux-Toolkit: Full Stack Application Github Repo | Deployed Link
-Multi-page Website built using React and React Router: Multi-page-Website Github Repo | Deployed Link
-Password Generator App built using React: Password Generator Github Repo | Deployed Link
-
 ### Projects and Dev Stuffs:
 
 * **Mockup**: Full Stack App for creating mock-ups of Instagram ads [PERN Stack,Yup+Formik,EmailJS,CropperJS,html5Canvas]|[Repo](https://github.com/samsonsim2/mockup-frontend).
