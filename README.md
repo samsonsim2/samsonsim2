@@ -36,7 +36,7 @@ I'm an aspiring full-stack developer with working experience in the creative ind
 
 * **Mockup**: Full Stack App for creating mock-ups of Instagram ads [PERN Stack,Yup+Formik,EmailJS,CropperJS,html5Canvas]|[Repo](https://github.com/samsonsim2/mockup-frontend).
 * **JobHunt**: Full Stack App/dashboard for tracking job applications, with simple data visualisation [MERN Stack]|[Repo](https://github.com/samsonsim2/jobHunt-client)|[Deployment](https://job-hunt-client.vercel.app)
-* **Monster-x-lab**: Interactive 3D Full stack website that lets users customise their own toy and share it on a publicly accessible gallery [MERN Stack +Cloudinary]| [Repo](https://github.com/samsonsim2?tab=repositories)|[Deployment](https://monster-xlab-client.vercel.app/)
+* **Monster-x-lab**: Interactive 3D Full stack website that lets users customise their own toy and share it on a publicly accessible gallery [MERN Stack +Cloudinary]| [Repo](https://github.com/samsonsim2/monsterXlab-client)|[Deployment](https://monster-xlab-client.vercel.app/)
 * **Resum(Me)**: Interactive 3D website with realistic avatar and resume presented in the form of a doll box [ReactThreeFiber,ReactThreeDrei]|[Repo](https://github.com/samsonsim2/boxwebsite)|[Deployment](https://boxwebsite.vercel.app)
  
  
