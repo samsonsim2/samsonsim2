@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/samson.img/)
  
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here! 
 
 I'm an aspiring full-stack developer with working experience in the creative industry and a background in architecture. I'm always looking for opportunities to combine my design sensibilities, visual craft , and tech skills to make an impact. 
  
